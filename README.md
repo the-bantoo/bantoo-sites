@@ -1,6 +1,8 @@
 ## Bantoo Site Customisations
 
-Common customisations for bantoo sits
+Common customisations for bantoo sites
+
+- Powered by "bantoo"
 
 #### License
 
